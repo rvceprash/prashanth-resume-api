@@ -1,0 +1,1 @@
+Oracle EPM: PBCS, FCCS, Essbase; Python, Flask, REST APIs, Flutter; Agentic AI: LangChain, LangGraph; OIC, CDM; SQL; Windows/Linux.

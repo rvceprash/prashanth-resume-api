@@ -1,0 +1,1 @@
+CAP upgrade 11.1.2.2->11.1.2.4; Citizens Bank EPM upgrade; RBS HFM platform support; ICA Sweden EPM upgrade; Baker Hughes environments & migration.
